@@ -1,7 +1,9 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-
+#argument span::first-letter{
+	padding-right: .5em;
+}
 
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
