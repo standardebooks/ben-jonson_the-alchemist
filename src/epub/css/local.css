@@ -94,16 +94,6 @@
 	display: none;
 }
 
-p span.i1{
-	text-indent: -1em;
-	padding-left: 2em;
-}
-
-p span.i2{
-	text-indent: -1em;
-	padding-left: 3em;
-}
-
 [epub|type~="glossary"] p{
 	display: block;
 	text-indent: -1em;
@@ -113,6 +103,31 @@ p span.i2{
 [epub|type~="glossary"] em{
 		font-style: normal;
 	font-variant: small-caps;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2.5em;
+}
+
+p span.i2{
+	text-indent: -1em;
+	padding-left: 5em;
+}
+
+p span.i3{
+	text-indent: -1em;
+	padding-left: 7.5em;
+}
+
+p span.i4{
+	text-indent: -1em;
+	padding-left: 10em;
+}
+
+p span.i5{
+	text-indent: -1em;
+	padding-left: 12.5em;
 }
 
 footer{
