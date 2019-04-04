@@ -5,6 +5,30 @@
 	padding-right: .5em;
 }
 
+section[epub|type~="dedication"] p{
+	text-align: center;
+	font-variant: small-caps;
+	max-width: 75%;
+	margin: auto;
+}
+
+[epub|type~="dedication"] p + p{
+	text-align: justify;
+	margin-top: 1em;
+	font-variant: normal;
+}
+
+[epub|type~="dedication"] footer p{
+	margin-top: 1em;
+	text-align: right;
+	font-variant: normal;
+}
+
+[epub|type~="dedication"] footer p + p{
+	margin-top: 0;
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
@@ -117,11 +141,6 @@ p span.i8{
 p span.i10{
 	text-indent: -1em;
 	padding-left: 11em;
-}
-
-footer{
-	margin: 1em;
-	text-align: right;
 }
 
 .signature{
