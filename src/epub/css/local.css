@@ -2,16 +2,20 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 
-
-[epub|type~="bridgehead"] span::first-letter{
-	padding-right: .5em;
+section[epub|type~="preamble"],
+section[epub|type~="prologue"]{
+	text-align: center;
 }
 
-[epub|type~="bridgehead"]{
-display: inline-block;
-max-width: 60%;
-text-align: left;
-text-indent: 0;
+section[epub|type~="prologue"] p,
+section[epub|type~="preamble"] p{
+	display: inline-block;
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="preamble"] span::first-letter{
+	padding-right: .5em;
 }
 
 section[epub|type~="dedication"] p{
@@ -150,6 +154,12 @@ p span.i8{
 p span.i10{
 	text-indent: -1em;
 	padding-left: 11em;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+	font-variant: normal;
 }
 
 .signature{
