@@ -1,7 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-
 section[epub|type~="preamble"],
 section[epub|type~="prologue"]{
 	text-align: center;
@@ -28,7 +27,7 @@ section[epub|type~="dedication"] p{
 [epub|type~="dedication"] p + p{
 	text-align: left;
 	margin-top: 1em;
-	text-indent: 0em;
+	text-indent: 0;
 	font-variant: normal;
 }
 
