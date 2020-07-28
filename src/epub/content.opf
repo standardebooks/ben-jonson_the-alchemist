@@ -45,7 +45,6 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;First performed in 1610, &lt;i&gt;The Alchemist&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/ben-jonson"&gt;Ben Jonson’s&lt;/a&gt; greatest comedies. Written for the King’s Men—the acting company to which &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; belonged—it was first performed in Oxford because the playhouses in London were closed due to the plague. It was an immediate success and has remained a popular staple ever since.&lt;/p&gt;
