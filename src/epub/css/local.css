@@ -17,27 +17,27 @@ section[epub|type~="preamble"] p{
 	padding-right: .5em;
 }
 
-section[epub|type~="dedication"] p{
+#dedication p{
 	text-align: center;
 	font-variant: small-caps;
 	max-width: 85%;
 	margin: auto;
 }
 
-[epub|type~="dedication"] p + p{
+#dedication p + p{
 	text-align: left;
 	margin-top: 1em;
 	text-indent: 0;
 	font-variant: normal;
 }
 
-[epub|type~="dedication"] footer p{
+#dedication footer p{
 	margin-top: 1em;
 	text-align: right;
 	font-variant: normal;
 }
 
-[epub|type~="dedication"] footer p + p{
+#dedication footer p + p{
 	margin-top: 0;
 	font-variant: small-caps;
 }
