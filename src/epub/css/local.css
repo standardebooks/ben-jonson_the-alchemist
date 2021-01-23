@@ -61,8 +61,10 @@ section[epub|type~="preamble"] p{
 	font-style: italic;
 }
 
-[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
+	margin: 1em auto;
+	width: 100%;
 }
 
 [epub|type~="z3998:drama"] tr:first-child td{
@@ -91,12 +93,6 @@ section[epub|type~="preamble"] p{
 	-epub-hyphens: none;
 	text-align: right;
 	width: 20%;
-}
-
-[epub|type~="z3998:drama"] table{
-	margin: 1em auto;
-	width: 100%;
-	border-collapse: collapse;
 }
 
 [epub|type~="z3998:stage-direction"]{
