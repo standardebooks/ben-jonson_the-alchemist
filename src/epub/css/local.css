@@ -132,8 +132,8 @@ i [epub|type~="z3998:persona"]{
 
 [epub|type~="z3998:verse"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:verse"] p > span + br{
@@ -141,23 +141,23 @@ i [epub|type~="z3998:persona"]{
 }
 
 p span.i1{
-	text-indent: -1em;
 	padding-left: 2em;
+	text-indent: -1em;
 }
 
 p span.i4{
-	text-indent: -1em;
 	padding-left: 5em;
+	text-indent: -1em;
 }
 
 p span.i6{
-	text-indent: -1em;
 	padding-left: 7em;
+	text-indent: -1em;
 }
 
 p span.i8{
-	text-indent: -1em;
 	padding-left: 9em;
+	text-indent: -1em;
 }
 
 p span.i10{
