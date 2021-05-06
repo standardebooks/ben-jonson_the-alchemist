@@ -57,7 +57,7 @@
 		<meta property="se:production-notes">Indents were added to match the meter: iambic pentameter.</meta>
 		<meta property="se:word-count">30977</meta>
 		<meta property="se:reading-ease.flesch">84.78</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Alchemist</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Alchemist_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ben-jonson_the-alchemist</meta>
 		<dc:creator id="author">Ben Jonson</dc:creator>
 		<meta property="file-as" refines="#author">Jonson, Ben</meta>
