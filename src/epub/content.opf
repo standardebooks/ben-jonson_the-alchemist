@@ -129,8 +129,8 @@
 		<itemref idref="dramatis-personae.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="dedication-to-the-reader.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="argument.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="prologue.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
 		<itemref idref="act-2.xhtml"/>
