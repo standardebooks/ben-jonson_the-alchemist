@@ -18,28 +18,28 @@ section[epub|type~="preamble"] p{
 }
 
 #dedication p{
-	text-align: center;
 	font-variant: small-caps;
-	max-width: 85%;
 	margin: auto;
+	max-width: 85%;
+	text-align: center;
 }
 
 #dedication p + p{
-	text-align: initial;
-	margin-top: 1em;
-	text-indent: 0;
 	font-variant: normal;
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
 }
 
 #dedication footer p{
+	font-variant: normal;
 	margin-top: 1em;
 	text-align: right;
-	font-variant: normal;
 }
 
 #dedication footer p + p{
-	margin-top: 0;
 	font-variant: small-caps;
+	margin-top: 0;
 }
 
 [epub|type~="z3998:dramatis-personae"]{
@@ -80,8 +80,8 @@ section[epub|type~="preamble"] p{
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
@@ -161,14 +161,14 @@ p span.i8{
 }
 
 p span.i10{
-	text-indent: -1em;
 	padding-left: 11em;
+	text-indent: -1em;
 }
 
 footer{
+	font-variant: normal;
 	margin-top: 1em;
 	text-align: right;
-	font-variant: normal;
 }
 
 [epub|type~="z3998:signature"]{
