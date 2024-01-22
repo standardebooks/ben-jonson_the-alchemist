@@ -70,6 +70,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="author-of-introduction">Felix E. Schelling</dc:contributor>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50016054</meta>
 		<dc:contributor id="transcriber-1">Amy E. Zelmer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Zelmer, Amy E.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
