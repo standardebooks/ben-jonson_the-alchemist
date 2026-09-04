@@ -31,10 +31,10 @@
 		<dc:title id="title">The Alchemist</dc:title>
 		<meta property="file-as" refines="#title">Alchemist, The</meta>
 		<dc:subject id="subject-1">English drama (Comedy)</dc:subject>
-		<dc:subject id="subject-2">English drama -- 17th century</dc:subject>
-		<dc:subject id="subject-3">London (England) -- Drama</dc:subject>
-		<dc:subject id="subject-4">City and town life -- Drama</dc:subject>
-		<dc:subject id="subject-5">Alchemists -- Drama</dc:subject>
+		<dc:subject id="subject-2">English drama--17th century</dc:subject>
+		<dc:subject id="subject-3">London (England)--Drama</dc:subject>
+		<dc:subject id="subject-4">City and town life--Drama</dc:subject>
+		<dc:subject id="subject-5">Alchemists--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043353</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
