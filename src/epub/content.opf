@@ -73,6 +73,7 @@
 		<link href="https://id.loc.gov/authorities/names/n78091972.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="author-of-introduction">Felix E. Schelling</dc:contributor>
+		<link href="https://en.wikipedia.org/wiki/Felix_Emanuel_Schelling" refines="#author-of-introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<link href="https://id.loc.gov/authorities/names/n50016054.html" refines="#author-of-introduction" rel="schema:sameAs"/>
 		<dc:contributor id="transcriber-1">Amy E. Zelmer</dc:contributor>
